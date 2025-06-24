@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # adidas API Maturity Framework
 
 <figure><img src=".gitbook/assets/Adidas_Logo.png" alt=""><figcaption><p>adidas Logo</p></figcaption></figure>
