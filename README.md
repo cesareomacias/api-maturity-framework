@@ -2,6 +2,8 @@
 
 <figure><img src=".gitbook/assets/Adidas_Logo.png" alt=""><figcaption><p>adidas Logo</p></figcaption></figure>
 
+[Read online at GitBook](https://adidas-1.gitbook.io/adidas-api-maturity-framework/)
+
 ## Motivation
 
 The API Maturity Framework is intended to be a continuous improvement tool for adidas APIs, providing consistent criteria to define an improvement path for API architects and engineers.
