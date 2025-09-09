@@ -28,8 +28,6 @@
 * [Authentication](publish/authentication.md)
 * [Authorization](publish/authorization.md)
 * [Secure API](publish/secure-api.md)
-* [Rate Limiting](publish/rate-limiting.md)
-* [CORS](publish/cors.md)
 
 ## DISCOVERY
 
