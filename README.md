@@ -1,6 +1,6 @@
 # adidas API Maturity Framework
 
-<figure><img src=".gitbook/assets/Adidas_Logo.png" alt=""><figcaption><p></p></figcaption></figure>
+<figure><img src=".gitbook/assets/Adidas_Logo.png" alt=""><figcaption></figcaption></figure>
 
 [Read online at GitBook](https://adidas-1.gitbook.io/adidas-api-maturity-framework/)
 
@@ -10,7 +10,7 @@ The API Maturity Framework is intended to be a continuous improvement tool for a
 
 This framework provides a clear roadmap for API development and lifecycle management. By sharing this comprehensive guide, we empower teams to enhance their API best practices, ensuring consistency, quality, and innovation.
 
-Fully aligned with[ Adidas API Guidelines](https://adidas.gitbook.io/api-guidelines), this framework focuses primarily on API evolution across different levels. It also offers a method to establish the current level in each phase but always fostering the improvement and evolution.&#x20;
+Fully aligned with[ Adidas API Guidelines](https://adidas.gitbook.io/api-guidelines), this framework focuses primarily on API evolution across different levels. It also offers a method to establish the current level in each phase but always fostering the improvement and evolution.
 
 ## Framework
 
@@ -54,9 +54,7 @@ The CAPITALIZED words throughout these guidelines have a special meaning:
 
 Refer to [RFC2119](https://www.rfc-editor.org/rfc/rfc2119) for details.
 
-## API Maturity Assessment
 
-TBD
 
 ## Collaborate & Contact
 
@@ -66,7 +64,7 @@ For inquiries specifically related to these guidelines, you are welcome to conta
 
 ## Last Review
 
-June 2025
+September 2025
 
 ## License and Software Information
 
