@@ -64,7 +64,7 @@ For inquiries specifically related to these guidelines, you are welcome to conta
 
 ## Last Review
 
-Septembeer 2025
+September 2025
 
 ## License and Software Information
 
